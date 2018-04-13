@@ -58,7 +58,7 @@
     "fs-extra": "5.0.0",
     "husky": "0.15.0-rc.13",
     "inflection": "1.12.0",
-    "jasmine-core": "2.99.1",
+    "jasmine-core": "3.1.0",
     "jasmine-spec-reporter": "4.2.1",
     "karma": "2.0.0",
     "karma-chrome-launcher": "2.2.0",
